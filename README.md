@@ -15,4 +15,8 @@ Obě frakce mají k dispozici několik základen po městě, kde se jejich člen
 V případě, že se potká na ulici člen Síly se členem Odboje, mohou na sebe zaútočit. Nejdelší vzdálenost útoku je omezena drženou zbraní, od které se taktéž odvíjí útok zbraně. Úroveň obrany hráče se odvíjí od jeho zkušenosti rostoucí s počtem přečkaných útoků.          
 Pokud je člen Síly zneškodněn členem Odboje (a naopak), má 10 minut na to dostat se na některou ze svých základen. Pokud tento limit nestihne, stává se členem opačné frakce.         
 
+Když se hráč zdržuje v blízkosti základny druhé frakce, dozvídají se jeho přibližnou polohu členové druhé frakce.        
+
+Neutrální místa jako nemocnice atd. jsou místa, v jejichž blízkosti nelze útočit. U nemocnic se zároveň automaticky doplňuje zdraví hráče.
+
 Cílem hry je nadvláda jedné z frakcí.

@@ -20,3 +20,6 @@ Když se hráč zdržuje v blízkosti základny druhé frakce, dozvídají se je
 Neutrální místa jako nemocnice atd. jsou místa, v jejichž blízkosti nelze útočit. U nemocnic se zároveň automaticky doplňuje zdraví hráče.
 
 Cílem hry je nadvláda jedné z frakcí.
+
+
+https://drive.google.com/open?id=1spZfjJgJFG5lBDrOQHO9Bvlv2g2M5CFD&usp=sharing
